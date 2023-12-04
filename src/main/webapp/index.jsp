@@ -2,12 +2,20 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>JSP - Hello World</title>
+    <title>Вкладка моего JSP</title>
 </head>
 <body>
-<h1><%= "Hello World!" %>
-</h1>
+<h3><%= "Hello World from JSP!" %>
+</h3>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 <br/>
 <a href="hello-servlet">Hello Servlet</a>
+<br/>
+<a href="first-servlet">First Servlet</a>
 </body>
 </html>
